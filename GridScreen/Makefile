@@ -1,4 +1,4 @@
-APPNAME = phase1_rsg
+V!TV NETWORK = phase1_rsg
 ZIP_EXCLUDE= -x keys\* -x store_assets\*
 APPSROOT = ../..
 
